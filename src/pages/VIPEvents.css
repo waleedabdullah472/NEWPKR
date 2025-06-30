@@ -1,8 +1,8 @@
 /* VIPEvents.css */
 .vip-events {
   font-family: Arial, sans-serif;
-  color: #fff;
-  background-color: #111;
+  color: #000; /* Text color black */
+  background-color: #fff; /* Container background white */
   padding: 20px;
   text-align: center;
 }
@@ -37,8 +37,8 @@
 
 .heading-with-bg {
   margin-bottom: 10px;
-  color: #000;
-  background-color: white;
+  color: #fff; /* Heading text white */
+  background-color: #000; /* Heading background black */
   padding: 30px;
   border-radius: 5px;
   display: block;
@@ -72,6 +72,8 @@
   border-radius: 25px;
   border: none;
   outline: none;
+  background: #f1f1f1;
+  color: #000;
 }
 
 .links-row {
@@ -91,7 +93,7 @@
 }
 
 .white-heading {
-  color: white;
+  color: #000; /* Updated to black since background is now white */
   margin-bottom: 15px;
   text-align: center;
 }
@@ -123,12 +125,12 @@
 .register-link {
   display: inline-block;
   margin: 10px 0;
-  color: #00ffff;
+  color: #00bcd4;
   text-decoration: underline;
 }
 
 .register-link:hover {
-  color: #00bcd4;
+  color: #008c9e;
 }
 
 .contact-link {
@@ -151,9 +153,10 @@
 
 .comment-section {
   margin-top: 30px;
-  background: #222;
+  background: #f0f0f0;
   padding: 20px;
   border-radius: 10px;
+  color: #000;
 }
 
 .comment-section textarea,
@@ -164,8 +167,8 @@
   border-radius: 8px;
   border: none;
   resize: vertical;
-  background-color: #333;
-  color: white;
+  background-color: #ddd;
+  color: #000;
 }
 
 .description {
@@ -180,12 +183,12 @@
   .vip-events .heading-with-bg h2 {
     font-size: 2.2em;
   }
-  
+
   .description {
     font-size: 1.3em;
     line-height: 1.6;
   }
-  
+
   .event-image,
   .white-heading {
     margin-top: 10px;
