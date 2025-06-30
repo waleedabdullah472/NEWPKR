@@ -11,7 +11,7 @@ function VIPEvents() {
         <div className="columns">
           <div className="left-column col-8">
             <h2 className="heading-with-bg">Use this Pak Games Invite Code to Join Exclusive VIP Events!</h2>
-            <p className="date">19/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">PKR-Game</a></p>
+            <p className="date">19/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539"> 92PKR-Game</a></p>
            
              <img src={firstImage} alt="Event" className="event-image" />
             <p className="description">You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on Pak Games using an invite code. Assuming you have all the required materials handy, creating an account should take you no more than four minutes. A list of the registration steps is provided below.</p>
@@ -22,7 +22,7 @@ function VIPEvents() {
             <input type="text" placeholder="Search..." className="search-bar" />
             <h3>Recent Posts</h3>
             <div className="links-row">
-              <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Welcome to 92 Jeeto Pakistan <br /> Your One-Stop Shop of Excitement and Real Cash Prizes!</a>
+              <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Welcome to 92PKR-GamePakistan <br /> Your One-Stop Shop of Excitement and Real Cash Prizes!</a>
               <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Introducing Basant Club <br /> Pakistan’s Premier Gaming Destination</a>
               <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Use this Pak Games Invite Code to<br /> Join Exclusive VIP Events!</a>
             </div>
