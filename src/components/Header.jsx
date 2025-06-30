@@ -35,7 +35,7 @@ const Header = () => {
       {/* Navigation Section */}
       <div className="nav-section">
         <div className="logo">
-          <img src="./assets/logo.webp" alt="Logo" className="logo-img" />
+          <img src="/src/assets/logo.webp" alt="Logo" className="logo-img" />
         </div>
         
         {/* Mobile Menu Button */}
