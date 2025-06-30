@@ -1,6 +1,7 @@
 import React from 'react';
 import './Blogs.css';
-
+import eventImage from '../assets/4.jpg';
+import eventImag from '../assets/5.jpg'; 
 function Blogs() {
   return (
     <div className="vip-events">
@@ -11,7 +12,7 @@ function Blogs() {
           <div className="left-column col-8">
             <h2 className="heading-with-bg">Welcome to 92 Jeeto Pakistan – Your One-Stop Shop of Excitement and Real Cash Prizes!</h2>
             <p className="date">6/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">PKR-Game</a></p>
-            <img src="/src/assets/4.jpg" alt="Event" className="event-image" />
+             <img src={eventImage} alt="Event" className="event-image" />
             <p className="description">
               You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on Pak Games using an invite code. Creating an account should take you no more than four minutes.
             </p>
@@ -57,7 +58,7 @@ function Blogs() {
           <div className="left-column col-8">
             <h2 className="heading-with-bg">Use this Pak Games Invite Code to Join Excluse VIP Events !</h2>
             <p className="date">6/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">PKR-Game</a></p>
-            <img src="/src/assets/6.jpg" alt="Event" className="event-image" />
+            <img src={eventImag} alt="Event" className="event-image" />
             <p className="description">
               You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on Pak Games using an invite code.
               Creating an account should take you no more than four minutes.

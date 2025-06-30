@@ -1,6 +1,7 @@
 import React from 'react';
 import './VIPEvents.css';
-
+import firstImage from '../assets/first.jpg';
+import secondImage from '../assets/second.jpg';
 function VIPEvents() {
   return (
     <div className="vip-events">
@@ -11,7 +12,8 @@ function VIPEvents() {
           <div className="left-column col-8">
             <h2 className="heading-with-bg">Use this Pak Games Invite Code to Join Exclusive VIP Events!</h2>
             <p className="date">19/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">PKR-Game</a></p>
-            <img src="/src/assets/first.jpg" alt="Event" className="event-image" />
+           
+             <img src={firstImage} alt="Event" className="event-image" />
             <p className="description">You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on Pak Games using an invite code. Assuming you have all the required materials handy, creating an account should take you no more than four minutes. A list of the registration steps is provided below.</p>
             <p className="note">NOTE: YOU MAY REGISTER DIRECTLY ON THE EMBEDDED REGISTRATION PAGE ABOVE.</p>
             <p className="description">To expedite the registration process, we’ve added an invitation code in addition to an embedded registration form. Play to win thrilling prizes after enjoying a leisurely read through of the instructions.</p>
@@ -42,7 +44,8 @@ function VIPEvents() {
       {/* Section 3 */}
       <section className="section">
         <h2 className="heading-with-bg">2. Enter your phone number, (+91), select a strong password.</h2>
-        <img src="/src/assets/second.jpg" alt="Highlights" className="highlight-image" />
+        
+        <img src={secondImage} alt="Highlights" className="highlight-image" />
       </section>
 
       {/* Section 4 */}
