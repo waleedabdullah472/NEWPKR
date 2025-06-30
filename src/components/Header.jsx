@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import './Header.css'; // Optional: use for header-specific styles
-
+import Logo from '../assets/logo.webp';
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
@@ -34,9 +34,10 @@ const Header = () => {
 
       {/* Navigation Section */}
       <div className="nav-section">
-        <div className="logo">
-          <img src="/public/vite.svg" alt="Logo" className="logo-img" />
-        </div>
+   <div className="logo">
+    <img src={Logo} alt="Logo" className="logo-img" />
+  </div>
+
         
         {/* Mobile Menu Button */}
         <button className="mobile-menu-btn" onClick={toggleMobileMenu}>
