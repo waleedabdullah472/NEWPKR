@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <footer className="footer-container">
       <div className="footer-content">
-        <span className="tax-text">© 2024 Pak Games</span>
+        <span className="tax-text">© 2025 92PKR-Game</span>
         <div 
           className="telegram-icon-wrapper" 
           onClick={handleTelegramClick}
