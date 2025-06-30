@@ -1,0 +1,140 @@
+/* Top Header Section */
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 30px;
+  background-color: #222;
+  color: white;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+/* Buttons */
+.btn {
+  padding: 10px 20px;
+  background-color: red;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: darkred;
+}
+
+/* Increase size on larger screens */
+@media screen and (min-width: 768px) {
+  .btn {
+    padding: 14px 30px;
+    font-size: 18px;
+  }
+}
+
+/* Navigation Section */
+.nav-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 30px;
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+/* Logo Image */
+.logo img {
+  width: 140px;
+  height: auto;
+  object-fit: contain;
+}
+
+@media screen and (min-width: 768px) {
+  .logo img {
+    width: 180px;
+  }
+}
+
+/* Navigation Links - Desktop */
+.nav-options {
+  display: none;
+}
+
+.nav-options a {
+  margin-left: 25px;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.nav-options a:hover {
+  color: red;
+}
+
+/* Mobile Menu Button */
+.mobile-menu-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #333;
+  display: block;
+}
+
+/* Mobile Menu */
+.mobile-menu {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+  z-index: 1000;
+}
+
+.mobile-menu.open {
+  display: flex;
+}
+
+.mobile-menu a {
+  padding: 15px 0;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  font-size: 16px;
+  border-bottom: 1px solid #eee;
+}
+
+.mobile-menu a:last-child {
+  border-bottom: none;
+}
+
+/* Desktop Styles */
+@media screen and (min-width: 768px) {
+  .mobile-menu-btn {
+    display: none;
+  }
+  
+  .nav-options {
+    display: flex;
+  flex-wrap: wrap;
+  }
+  
+  .mobile-menu {
+    display: none !important;
+  }
+  
+  .nav-options a {
+    font-size: 18px;
+  }
+}

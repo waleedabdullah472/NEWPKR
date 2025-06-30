@@ -1,0 +1,149 @@
+.vip-events {
+  font-family: Arial, sans-serif;
+  color: #fff;
+  background-color: #111;
+  padding: 20px;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.section {
+  padding: 40px 20px;
+  margin-bottom: 30px;
+}
+
+.section-black {
+  background-color: #000;
+}
+
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.col-8 {
+  flex: 0 0 calc(66.666% - 20px);
+}
+
+.col-4 {
+  flex: 0 0 calc(33.333% - 20px);
+}
+
+.left-column,
+.right-column {
+  min-width: 280px;
+}
+
+.heading-with-bg {
+  margin-bottom: 10px;
+  color: #000;
+  background-color: white;
+  padding: 30px;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.date a {
+  color: #ff4d4d;
+  text-decoration: underline; 
+  font-size: 1.15em;
+
+}
+
+.event-image {
+  max-width: 100%;
+  height: auto;
+  margin: 15px auto;
+  border-radius: 10px;
+  display: block;
+}
+
+.note {
+  color: #f39c12;
+  font-style: italic;
+}
+
+.description {
+  font-size: 1.15em;
+  line-height: 1.6;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.search-bar {
+  padding: 10px;
+  width: 100%;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  background: #fff;
+  color: #000;
+}
+
+.links-row {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.links-row a {
+  color: #f39c12;
+  text-decoration: none;
+}
+
+.links-row a:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 769px) {
+  .vip-events .heading-with-bg h2 {
+    font-size: 2.2em;
+  }
+
+  .description {
+    font-size: 1.3em;
+  }
+
+  .event-image {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .white-heading {
+    text-align: center;
+  }
+
+  .columns {
+    flex-direction: column;
+  }
+
+  .col-8,
+  .col-4 {
+    flex: 0 0 100%;
+  }
+
+  .left-column,
+  .right-column {
+    min-width: auto;
+    text-align: left;
+  }
+
+  .links-row {
+    text-align: center;
+  }
+
+  .heading-with-bg {
+    padding: 20px 10px;
+  }
+
+  .search-bar {
+    text-align: center;
+  }
+}
