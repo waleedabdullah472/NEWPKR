@@ -24,7 +24,7 @@ function VIPEvents() {
             <div className="links-row">
               <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Welcome to 92PKR-GamePakistan <br /> Your One-Stop Shop of Excitement and Real Cash Prizes!</a>
               <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Introducing Basant Club <br /> Pakistan’s Premier Gaming Destination</a>
-              <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Use this Pak Games Invite Code to<br /> Join Exclusive VIP Events!</a>
+              <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Use this 92PKR-Game Invite Code to<br /> Join Exclusive VIP Events!</a>
             </div>
           </div>
         </div>
@@ -32,8 +32,8 @@ function VIPEvents() {
 
       {/* Section 2 */}
       <section className="section">
-        <h2 className="heading-with-bg">1. Search for and paste a PAK GAMES INVITE CODE into your web browser.</h2>
-        <p className="description">• • To view the Pak Games website, use a desktop or mobile browser. You will be taken to the Pak Games registration page.</p>
+        <h2 className="heading-with-bg">1. Search for and paste a 92PKR-Game INVITE CODE into your web browser.</h2>
+        <p className="description">• • To view the 92PKR-Game website, use a desktop or mobile browser. You will be taken to the Pak Games registration page.</p>
         <p className="description">• NOTE: You’ll notice that the Invite Code field already has an invite code entered. Just prepare your password and phone number beforehand.</p>
         <p className="description">• • Fill out the registration form on the registration page or by clicking the registration link above.</p>
         <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">
@@ -58,12 +58,12 @@ function VIPEvents() {
 
       {/* Section 5 */}
       <section className="section">
-        <h2 className="heading-with-bg">4. Enter the invite code for Pak Games (USE OUR INVITE CODE)</h2>
+        <h2 className="heading-with-bg">4. Enter the invite code for 92PKR-Game(USE OUR INVITE CODE)</h2>
         <p className="invitation-code">INVITE CODE : 28742968539</p>
         <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539" className="register-link">Register Now</a>
-        <p className="description">• Enter your Registered account number (+92) on PakGames</p>
+        <p className="description">• Enter your Registered account number (+92) on 92PKR-Game</p>
         <p className="description">• Enter your Password, please to know that your registered account must be at least Lowercase and Uppercase letter along with numbers</p>
-        <p className="description">• Press Log in to Proceed login to your PakGames Account</p>
+        <p className="description">• Press Log in to Proceed login to your 92PKR-Game Account</p>
       </section>
 
       {/* Section 6 */}
