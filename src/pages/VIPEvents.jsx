@@ -10,7 +10,7 @@ function VIPEvents() {
       <section className="section section-black">
         <div className="columns">
           <div className="left-column col-8">
-            <h2 className="heading-with-bg">Use this Pak Games Invite Code to Join Exclusive VIP Events!</h2>
+            <h2 className="heading-with-bg">Use this 92PKR-Game Invite Code to Join Exclusive VIP Events!</h2>
             <p className="date">19/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539"> 92PKR-Game</a></p>
            
              <img src={firstImage} alt="Event" className="event-image" />
