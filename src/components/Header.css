@@ -7,13 +7,14 @@
   background-color: #118927;
   color: white;
   gap: 20px;
+
   flex-wrap: wrap;
 }
 
 /* Buttons */
 .btn {
   padding: 10px 20px;
-  background-color: ;
+  background-color: red ;
   border: none;
   color: white;
   border-radius: 8px;
