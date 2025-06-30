@@ -15,7 +15,7 @@ function Blogs() {
             <p className="date">6/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539"> 92PKR-Game</a></p>
              <img src={eventImage} alt="Event" className="event-image" />
             <p className="description">
-              You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on Pak Games using an invite code. Creating an account should take you no more than four minutes.
+              You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on 92PKR-Game using an invite code. Creating an account should take you no more than four minutes.
             </p>
             <p className="note">NOTE: YOU MAY REGISTER DIRECTLY ON THE EMBEDDED REGISTRATION PAGE ABOVE.</p>
             <p className="description">
@@ -28,7 +28,7 @@ function Blogs() {
             <h3>Recent Posts</h3>
             <div className="links-row">
               <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Welcome to 92PKR-Game Pakistan - Real Cash Prizes!</a>
-              <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Introducing Basant Club - Gaming Destination</a>
+              <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Introducing 92PKR-Game - Gaming Destination</a>
               <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">Use Pak 92PKR-Game Invite Code - VIP Events!</a>
             </div>
           </div>
@@ -39,11 +39,11 @@ function Blogs() {
       <section className="section section-black">
         <div className="columns">
           <div className="left-column col-8">
-            <h2 className="heading-with-bg">Introducing Basant Club: Pakistan’s Premier Gaming Destination</h2>
+            <h2 className="heading-with-bg">Introducing 92PKR-Game: Pakistan’s Premier Gaming Destination</h2>
             <p className="date">19/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">PKR-Game</a></p>
             <img src={eventIma} alt="Event" className="event-image" />
             <p className="description">
-              Basant Club is a fascinating place in the ever-changing world of online gaming in Pakistan since it offers a large selection of games meant for the local gaming enthusiasts. Let us investigate the universe of Basant Club, looking at its origins, principles, special qualities, and many chances it presents to players all around. The Birth … Read more
+              92PKR-Game is a fascinating place in the ever-changing world of online gaming in Pakistan since it offers a large selection of games meant for the local gaming enthusiasts. Let us investigate the universe of 92PKR-Game, looking at its origins, principles, special qualities, and many chances it presents to players all around. The Birth … Read more
             </p>
             <p className="note">NOTE: YOU MAY REGISTER DIRECTLY ON THE EMBEDDED REGISTRATION PAGE ABOVE.</p>
             <p className="description">
@@ -61,13 +61,13 @@ function Blogs() {
             <p className="date">6/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">PKR-Game</a></p>
             <img src={eventImag} alt="Event" className="event-image" />
             <p className="description">
-              You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on Pak Games using an invite code.
+              You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on 92PKR-Game using an invite code.
               Creating an account should take you no more than four minutes.
             </p>
      
             <p className="note">NOTE: YOU MAY REGISTER DIRECTLY ON THE EMBEDDED REGISTRATION PAGE ABOVE.</p>
             <p className="description">
-              You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on Pak Games using an invite code. Assuming you have all the required materials handy, creating an account should take you no more than four minutes. A list of the registration steps is provided below. To expedite … Read more
+              You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on 92PKR-Game using an invite code. Assuming you have all the required materials handy, creating an account should take you no more than four minutes. A list of the registration steps is provided below. To expedite … Read more
             </p>
           </div>
         </div>
