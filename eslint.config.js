@@ -3,7 +3,12 @@ import globals from 'globals'
 import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
 import { defineConfig, globalIgnores } from 'eslint/config'
-
+import ReactGA from "react-ga";
+const TRACKING_ID = "G-RE2K0LT6T1";
+ReactGA.initalize(TRACKING_ID);
+useEffect(()=>{
+  pageView(loaction.pathname + LOCATION>SEARCH);
+},[location]);
 export default defineConfig([
   globalIgnores(['dist']),
   {
