@@ -1,4 +1,15 @@
 User-agent: *
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
 Disallow:
 
 Sitemap: https://www.92pkr.digital/sitemap.xml
