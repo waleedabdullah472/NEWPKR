@@ -1,1 +1,4 @@
+User-agent: *
+Disallow:
 
+Sitemap: https://www.92pkr.digital/sitemap.xml
