@@ -3,9 +3,17 @@ import './Blogs.css';
 import eventImage from '../assets/4.jpg';
 import eventImag from '../assets/6.jpg'; 
 import eventIma from '../assets/5.jpg';
+import { Helmet } from "react-helmet";
 function Blogs() {
   return (
     <div className="vip-events">
+      <Helmet>
+        <title>92PKR Blog – Color Trading Tips, Strategies & Latest Updates</title>
+        <meta
+          name="description"
+          content="Explore expert tips, winning tricks, and the latest news about color trading on the 92PKR blog. Stay updated and trade smarter every day."
+        />
+      </Helmet>
 
       {/* Section 1 - With right column */}
       <section className="section section-black">
