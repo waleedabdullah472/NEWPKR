@@ -1,5 +1,6 @@
 import React from 'react';
 import './ContactUs.css';
+import { Helmet } from "react-helmet";
 
 const ContactUs = () => {
   const handleRegisterClick = () => {
@@ -8,6 +9,13 @@ const ContactUs = () => {
 
   return (
     <div className="contact-us-container">
+       <Helmet>
+        <title>Contact 92PKR – Get Support, Ask Questions & Get Help Fast</title>
+        <meta
+          name="description"
+          content="Need help or have questions? Contact 92PKR’s support team for quick assistance, account help, or general inquiries. We're here to support you 24/7"
+        />
+      </Helmet>
       <h1>Contact Us</h1>
 
       <div className="contact-info-box">
