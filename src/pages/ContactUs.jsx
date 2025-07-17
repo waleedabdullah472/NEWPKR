@@ -15,6 +15,7 @@ const ContactUs = () => {
           name="description"
           content="Need help or have questions? Contact 92PKR’s support team for quick assistance, account help, or general inquiries. We're here to support you 24/7"
         />
+        <meta name="keywords" content="92pkr, 92 pkr, color trading, online color trading, fast color trading" />
       </Helmet>
       <h1>Contact Us</h1>
 
