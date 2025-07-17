@@ -139,3 +139,6 @@
     font-size: 18px;
   }
 }
+.logo-img {
+  cursor: pointer;
+}
