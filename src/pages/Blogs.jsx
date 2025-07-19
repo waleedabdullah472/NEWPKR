@@ -22,7 +22,7 @@ function Blogs() {
           <div className="left-column col-8">
             <h2 className="heading-with-bg">Welcome to 92PKR-Game Pakistan – Your One-Stop Shop of Excitement and Real Cash Prizes!</h2>
             <p className="date">6/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539"> 92PKR-Game</a></p>
-             <img src={eventImage} alt="Event" className="event-image" />
+             <img src={eventImage} alt="92pkr" className="event-image" />
             <p className="description">
               You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on <a href="https://www.92pkr.digital/">92PKR</a> -Game using an invite code. Creating an account should take you no more than four minutes.
             </p>
@@ -50,7 +50,7 @@ function Blogs() {
           <div className="left-column col-8">
             <h2 className="heading-with-bg">Introducing 92PKR-Game: Pakistan’s Premier Gaming Destination</h2>
             <p className="date">19/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">PKR-Game</a></p>
-            <img src={eventIma} alt="Event" className="event-image" />
+            <img src={eventIma} alt="92pkr" className="event-image" />
             <p className="description">
               92PKR-Game is a fascinating place in the ever-changing world of online gaming in Pakistan since it offers a large selection of games meant for the local gaming enthusiasts. Let us investigate the universe of 92PKR-Game, looking at its origins, principles, special qualities, and many chances it presents to players all around. The Birth … Read more
             </p>
@@ -68,7 +68,7 @@ function Blogs() {
           <div className="left-column col-8">
             <h2 className="heading-with-bg">Use this  92PKR-Game Invite Code to Join Excluse VIP Events !</h2>
             <p className="date">6/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539">PKR-Game</a></p>
-            <img src={eventImag} alt="Event" className="event-image" />
+            <img src={eventImag} alt="92pkr" className="event-image" />
             <p className="description">
               You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on 92PKR-Game using an invite code.
               Creating an account should take you no more than four minutes.
