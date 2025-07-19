@@ -24,7 +24,7 @@ function Blogs() {
             <p className="date">6/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539"> 92PKR-Game</a></p>
              <img src={eventImage} alt="Event" className="event-image" />
             <p className="description">
-              You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on 92PKR-Game using an invite code. Creating an account should take you no more than four minutes.
+              You’ve come to the correct place if you’re seeking for instructions on how to sign up and create an account on <a href="https://www.92pkr.digital/">92PKR</a> -Game using an invite code. Creating an account should take you no more than four minutes.
             </p>
             <p className="note">NOTE: YOU MAY REGISTER DIRECTLY ON THE EMBEDDED REGISTRATION PAGE ABOVE.</p>
             <p className="description">

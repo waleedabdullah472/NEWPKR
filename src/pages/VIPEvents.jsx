@@ -70,7 +70,7 @@ function VIPEvents() {
       <section className="section">
         <h2 className="heading-with-bg">FACING PROBLEM ?</h2>
         <p className="description">To get in touch with our customer support, click the icon below. We’ll do all in our power to help you resolve your problems.</p>
-        <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539" className="contact-link">Contact Customer Service</a>
+        <a href="https://www.92pkr.digital/contact-us" className="contact-link">Contact Customer Service</a>
         <div className="club-intro">
           <p className="description">We proudly introduce VIP clubs across Pakistan for elite entertainment and luxury experiences.</p>
           <p className="description">Each club offers a unique environment for networking, enjoyment, and exclusive member activities.</p>

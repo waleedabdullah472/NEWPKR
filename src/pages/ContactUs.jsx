@@ -42,6 +42,8 @@ const ContactUs = () => {
         <button className="register-btn" onClick={handleRegisterClick}>
           Register Now on 92PKR Game
         </button>
+        <br />
+        <strong><a href="https://www.92pkr.digital/">Most Welcome To 92PKR</a> </strong>
       </div>
     </div>
   );
