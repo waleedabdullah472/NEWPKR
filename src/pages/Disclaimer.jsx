@@ -21,7 +21,7 @@ function blog() {
                         <p className="description">
                             an engaging online platform designed to offer users fun, excitement, and real earning opportunities through skill-based games and smart play.
 
-                            Please note that while many users earn rewards on our platform, outcomes can vary. Your success on 92PKR may depend on multiple factors such as your skill level, game strategy, and, in some cases, luck.
+                            Please note that while many users earn rewards on our platform, outcomes can vary. Your success on <a href="https://www.92pkr.digital/">92PKR</a> may depend on multiple factors such as your skill level, game strategy, and, in some cases, luck.
 
                             We do not guarantee specific results or earnings. All activities on our platform are intended for entertainment purposes, and users are encouraged to play responsibly.
                         </p>
