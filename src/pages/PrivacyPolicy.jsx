@@ -19,7 +19,7 @@ function blog() {
           <div className="left-column col-8">
             <h2 className="heading-with-bg">Welcome to 92PKR.digital</h2>
             <p className="description">
-              At 92PKR, we respect and protect your privacy. This policy explains how we collect, use, and safeguard your personal information when you use our website.
+              At <a href="https://www.92pkr.digital/">92PKR</a>, we respect and protect your privacy. This policy explains how we collect, use, and safeguard your personal information when you use our website.
               <br />
               <strong>1. Information We Collect</strong>
               We may collect basic personal details like:
