@@ -8,6 +8,10 @@ import Blogs from './pages/Blogs';
 import ContactUs from './pages/ContactUs';
 import Footer from './components/Footer';
 import Header from './components/Header';
+import Disclaimer  from './pages/Disclaimer';
+import PrivacyPolicy from './pages/PrivacyPolicy';
+import NotFound from './pages/NotFound';
+
 
 const App = () => {
   return (
@@ -22,6 +26,9 @@ const App = () => {
           <Route path="/invite-code" element={<InviteCode />} />
           <Route path="/blogs" element={<Blogs />} />
           <Route path="/contact-us" element={<ContactUs />} />
+          <Route path="/Disclaimer" element={<Disclaimer />} />
+          <Route path='/PrivacyPolicy' element={<PrivacyPolicy/>}/>
+           <Route path="*" element={<NotFound />} />
         </Routes>
 
         {/* Footer */}
