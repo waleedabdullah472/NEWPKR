@@ -17,9 +17,9 @@ function blog() {
             <section className="section section-black">
                 <div className="columns">
                     <div className="left-column col-8">
-                        <h2 className="heading-with-bg">Welcome to 92PKR.digital</h2>
+                        <h2 className="heading-with-bg">Disclaimer</h2>
                         <p className="description">
-                            an engaging online platform designed to offer users fun, excitement, and real earning opportunities through skill-based games and smart play.
+                            Welcome to 92PKR.digital an engaging online platform designed to offer users fun, excitement, and real earning opportunities through skill-based games and smart play.
 
                             Please note that while many users earn rewards on our platform, outcomes can vary. Your success on <a href="https://www.92pkr.digital/">92PKR</a> may depend on multiple factors such as your skill level, game strategy, and, in some cases, luck.
 

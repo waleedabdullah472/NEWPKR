@@ -17,7 +17,7 @@ function blog() {
       <section className="section section-black">
         <div className="columns">
           <div className="left-column col-8">
-            <h2 className="heading-with-bg">Welcome to 92PKR.digital</h2>
+            <h2 className="heading-with-bg">Privacy Policy</h2>
             <p className="description">
               At <a href="https://www.92pkr.digital/">92PKR</a>, we respect and protect your privacy. This policy explains how we collect, use, and safeguard your personal information when you use our website.
               <br />
