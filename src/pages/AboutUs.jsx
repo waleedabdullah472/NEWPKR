@@ -8,7 +8,7 @@ function blog() {
                 </title>
                 <meta
                     name="description"
-                    content="JLearn about 92PKR, Pakistan’s exciting color prediction game platform. Play smart, win real rewards, and enjoy secure, fast gameplay."
+                    content="JLearn about 92PKR, Pakistan’ exciting color prediction game platform. Play smart, win real rewards, and enjoy secure, fast gameplay."
                 />
                 <meta name="keywords" content="92pkr, 92 pkr, color trading, online color trading, fast color trading" />
             </Helmet>
@@ -17,7 +17,7 @@ function blog() {
             <section className="section section-black">
                 <div className="columns">
                     <div className="left-column col-8">
-                        <h2 className="heading-with-bg">Privacy Policy</h2>
+                        <h2 className="heading-with-bg">About Us</h2>
                         <p className="description">
 
                             <strong>Who We Are</strong>

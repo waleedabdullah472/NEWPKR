@@ -10,6 +10,7 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 import Disclaimer  from './pages/Disclaimer';
 import PrivacyPolicy from './pages/PrivacyPolicy';
+import AboutUs from './pages/AboutUs';
 import NotFound from './pages/NotFound';
 
 
