@@ -8,7 +8,7 @@ function Blogs() {
   return (
     <div className="vip-events">
       <Helmet>
-        <title>92PKR Blog – Color Trading Tips, Strategiess & More Latest Updates</title>
+        <title>92PKR Blog – Color Trading Tips, Strategiess & Ahmad Latest Updates</title>
         <meta
           name="description"
           content="Explore expert tips, winning tricks, and the latest news about color trading on the 92PKR blog. Stay updated and trade smarter every day."
