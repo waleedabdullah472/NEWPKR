@@ -68,6 +68,7 @@ const Header = () => {
           <Link to="/contact-us">Contact Us</Link>
             <Link to="/Disclaimer">Disclaimer</Link>
             <Link to="/PrivacyPolicy">Privacy Policy</Link>
+            <Link to="/AboutUs">About Us</Link>
         </div>
 
 
@@ -93,6 +94,7 @@ const Header = () => {
           <Link to="/contact-us" onClick={toggleMobileMenu}>Contact Us</Link>
           <Link to="/Disclaimer" onClick={toggleMobileMenu}>Disclaimer</Link>
             <Link to="/PrivacyPolicy" onClick={toggleMobileMenu}>Privacy Policy</Link>
+             <Link to="/AboutUs" onClick={toggleMobileMenu}>About Us</Link>
         </div>
       </div>
     </div>

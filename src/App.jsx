@@ -28,6 +28,7 @@ const App = () => {
           <Route path="/contact-us" element={<ContactUs />} />
           <Route path="/Disclaimer" element={<Disclaimer />} />
           <Route path='/PrivacyPolicy' element={<PrivacyPolicy/>}/>
+          <Route path='/AboutUs' element={<AboutUs/>}/>
            <Route path="*" element={<NotFound />} />
         </Routes>
 
