@@ -9,25 +9,43 @@
 <url>
     <loc>https://www.92pkr.digital/</loc>
     <lastmod>2025-07-08T10:05:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
 </url>
 
 <url>
     <loc>https://www.92pkr.digital/blogs</loc>
     <lastmod>2025-07-08T10:05:13+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
 </url>
 
 <url>
     <loc>https://www.92pkr.digital/contact-us</loc>
     <lastmod>2025-07-08T10:05:13+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>https://www.92pkr.digital/Disclaimer</loc>
+    <loc>https://www.92pkr.digital/disclaimer</loc>
     <lastmod>2025-07-08T10:05:13+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
 </url>
+
 <url>
-    <loc>https://www.92pkr.digital/PrivacyPolicy</loc>
+    <loc>https://www.92pkr.digital/privacy-policy</loc>
     <lastmod>2025-07-08T10:05:13+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+</url>
+
+<url>
+    <loc>https://www.92pkr.digital/about-us</loc>
+    <lastmod>2025-07-08T10:05:13+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
 </url>
 
 </urlset>
