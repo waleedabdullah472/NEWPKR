@@ -17,7 +17,7 @@ function blog() {
             <section className="section section-black">
                 <div className="columns">
                     <div className="left-column col-8">
-                        <h2 className="heading-with-bg">About Us</h2>
+                        <h1 className="heading-with-bg">About Us</h1>
                         <p className="description">
 
                             <strong>Who We Are</strong>

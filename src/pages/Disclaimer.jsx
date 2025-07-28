@@ -17,7 +17,7 @@ function blog() {
             <section className="section section-black">
                 <div className="columns">
                     <div className="left-column col-8">
-                        <h2 className="heading-with-bg">Disclaimer</h2>
+                        <h1 className="heading-with-bg">Disclaimer</h1>
                         <p className="description">
                             Welcome to 92PKR.digital an engaging online platform designed to offer users fun, excitement, and real earning opportunities through skill-based games and smart play.
 

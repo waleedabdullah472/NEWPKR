@@ -20,7 +20,7 @@ function Blogs() {
       <section className="section section-black">
         <div className="columns">
           <div className="left-column col-8">
-            <h2 className="heading-with-bg">Welcome to 92PKR-Game Pakistan – Your One-Stop Shop of Excitement and Real Cash Prizes!</h2>
+            <h2 className="heading-with-bg">Welcome to 92PKR-Blog Pakistan – Your One-Stop Shop of Excitement and Real Cash Prizes!</h2>
             <p className="date">6/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539"> 92PKR-Game</a></p>
              <img src={eventImage} alt="92pkr" className="event-image" />
             <p className="description">

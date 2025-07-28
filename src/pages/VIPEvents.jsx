@@ -10,7 +10,9 @@ function VIPEvents() {
       <section className="section section-black">
         <div className="columns">
           <div className="left-column col-8">
-            <h1 className="heading-with-bg">Use this 92PKR-Game Invite Code to Join Exclusive VIP Events!</h1>
+             <h1 className="heading-with-bg">92PKR</h1>
+             <p>92PKR Digital is a real earning game in Pakistan. Users can play and earn money daily. It offers fun task and quick payouts</p>
+            <h2 className="heading-with-bg">Use this 92PKR-Game Invite Code to Join Exclusive VIP Events!</h2>
             <p className="date">19/11/2024 by - <a href="https://www.92pkrs.com/#/register?invitationCode=28742968539"> 92PKR-Game</a></p>
            
              <img src={firstImage} alt="92pkr" className="event-image" />
