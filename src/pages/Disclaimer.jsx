@@ -11,6 +11,7 @@ function blog() {
                     content="92PKR offers real earning based on luck and skill. Read our disclaimer before playing."
                 />
                 <meta name="keywords" content="92pkr, 92 pkr, color trading, online color trading, fast color trading" />
+                <link rel="canonical" href="https://www.92pkr.digital/Disclaimer" />
             </Helmet>
 
             {/* Section 1 - With right column */}

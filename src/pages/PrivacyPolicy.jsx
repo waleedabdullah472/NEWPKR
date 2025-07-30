@@ -11,6 +11,7 @@ function blog() {
           content="Join 92PKR now. Pakistan’s rising color trading platform. Test your luck and skill to win real rewards daily."
         />
         <meta name="keywords" content="92pkr, 92 pkr, color trading, online color trading, fast color trading" />
+         <link rel="canonical" href="https://www.92pkr.digital/PrivacyPolicy" />
       </Helmet>
 
       {/* Section 1 - With right column */}

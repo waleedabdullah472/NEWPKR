@@ -14,6 +14,7 @@ function Blogs() {
           content="Explore expert tips, winning tricks, and the latest news about color trading on the 92PKR blog. Stay updated and trade smarter every day."
         />
         <meta name="keywords" content="92pkr, 92 pkr, color trading, online color trading, fast color trading" />
+        <link rel="canonical" href="https://www.92pkr.digital/blogs" />
       </Helmet>
 
       {/* Section 1 - With right column */}

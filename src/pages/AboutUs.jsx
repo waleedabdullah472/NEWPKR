@@ -11,6 +11,7 @@ function blog() {
                     content="JLearn about 92PKR, Pakistan’ exciting color prediction game platform. Play smart, win real rewards, and enjoy secure, fast gameplay."
                 />
                 <meta name="keywords" content="92pkr, 92 pkr, color trading, online color trading, fast color trading" />
+                 <link rel="canonical" href="https://www.92pkr.digital/AboutUs" />
             </Helmet>
 
             {/* Section 1 - With right column */}
