@@ -2,9 +2,12 @@ import React from 'react';
 import './VIPEvents.css';
 import firstImage from '../assets/first.jpg';
 import secondImage from '../assets/second.jpg';
+import { Helmet } from 'react-helmet';
+
 function VIPEvents() {
   return (
     <div className="vip-events">
+      <Helmet><link rel="canonical" href="https://www.92pkr.digital/" /></Helmet>
 
       {/* Section 1 */}
       <section className="section section-black">
